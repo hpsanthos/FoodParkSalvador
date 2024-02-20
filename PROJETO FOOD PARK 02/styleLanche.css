@@ -1,0 +1,360 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.lanche_hamburguer {
+    background-image: url(imagens_parte/hambuguer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+.lanche_pizza{
+    background-image: url(imagens_parte/pizza.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+    
+}
+.lanche-coxinha{
+    background-image: url(imagens_parte/coxinhaa.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+    
+}
+.lanche_3 {
+    background-image: url(imagens_parte/mexicano.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+
+.lanche_crepe {
+    background-image: url(imagens_parte/crepe.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+.lanche_oriental {
+    background-image: url(imagens_parte/Lanche_japones.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+.lanche_churrasco{
+    background-image: url(imagens_parte/churrasco.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+.lanche_feijoada{
+    background-image: url(imagens_parte/feijoada.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+
+.lanche_bauru {
+    background-image: url(imagens_parte/Bauru.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+
+.lanche_acai {
+    background-image: url(imagens_parte/acai.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+.lanche_hotDog{
+    background-image: url(imagens_parte/hot-dog.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+
+}
+.lanche_pastel {
+    background-image: url(imagens_parte/pastel.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+
+}
+.lanche_italiano {
+    background-image: url(imagens_parte/italiano.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    grid-template-columns: repeat(4, 90px);
+    gap: 85px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+}
+
+.iconesLanche {
+    cursor: pointer;
+}
+
+
+
+.caixa2 {
+    margin-top: 1rem;
+    z-index: 0;
+    position: relative;
+
+}
+
+
+.passeio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin-bottom: 10px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+
+}
+
+ .estrutura{
+    border-radius: 3.5rem;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    height: auto;
+   
+}
+
+
+
+.passeio-virtual{
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    display: block;
+    grid-template-columns: repeat(4, 90px);
+    border-radius: 45px;
+    padding: 3rem;
+    padding-top: 5px;
+    background-color: #fff;
+    border-radius: 45px;
+    
+}
+
+
+.passeio-virtual p {
+    margin-top: 2rem;
+    text-align: justify;
+    justify-content: center;
+    width: 70%;
+    margin-left: 15%;
+    font-size: 20px;
+
+} 
+.subtitulo {
+    margin-top: 2rem;
+    font-family: "Monserrat", sans-serif;
+    color: #00305B;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+} 
+
+.como-chegar {
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 2rem;
+    margin-top: 40px;
+    
+  }
+  
+  .titulo_local {
+    color: #00305B;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 800;
+    padding-top: 20px;
+    margin-left: 77px;
+  
+  }
+  
+  
+  .area-locais {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    gap: 2rem;
+    
+  }
+  
+  
+  .text-map {
+    text-align: center;
+    color: #00305B;
+     font-size: 18px;
+     font-weight: bolder;
+       /* z-index: 12;  */
+  
+  }
+  
+  .video-local, .mapa{
+    /* z-index: 12;  */
+  }
+  
+  .video-local iframe{
+    border: solid 4px #CECACA;
+    border-radius: 35px;
+    padding: 10px;
+    cursor: pointer;
+   
+  }
+  .mapa iframe  {
+    border-radius: 35px;
+    padding: 10px;
+    cursor: pointer;
+    
+  
+  }
+  
+  .text-final {
+    text-align: center;
+    color: #00305B;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 15px;
+  }
